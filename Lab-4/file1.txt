@@ -1,0 +1,4 @@
+ls -al
+whoami
+gcc practice.c -o practice
+touch day.c
